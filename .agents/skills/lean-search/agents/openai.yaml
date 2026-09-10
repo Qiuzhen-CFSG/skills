@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Search"
+  short_description: "Find exact project and Mathlib declarations"
+  default_prompt: "Use $lean-search to find the exact declaration, likely import, and usage pattern for this Lean goal; use lean-probing for exact elaboration checks."

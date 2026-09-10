@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Proving"
+  short_description: "Construct, debug, and verify Lean 4 proofs"
+  default_prompt: "Use $lean-proving to implement and fully verify this Lean theorem in its owning module."

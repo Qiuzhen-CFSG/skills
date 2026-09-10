@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean CLI Probing"
+  short_description: "Inspect Lean types, goals, diagnostics, and axioms"
+  default_prompt: "Use $lean-probing to answer this focused Lean type, goal, diagnostic, freshness, or axiom question with a local probe."
